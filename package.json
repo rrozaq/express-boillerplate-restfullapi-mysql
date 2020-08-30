@@ -1,0 +1,19 @@
+{
+  "name": "api-express-hacktoberfest",
+  "version": "1.0.0",
+  "description": "express restfullapi with mysql",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon --max-old-space-size=2048 server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rozaq Armedian",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4"
+  }
+}
