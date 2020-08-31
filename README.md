@@ -5,14 +5,12 @@
 - **Express** - [http://expressjs.com/](http://expressjs.com/)
 - **Mysql** - [https://www.mysql.com//](https://www.mysql.com//)
 - **nodemon** - [https://www.npmjs.com/package/nodemon](https://www.npmjs.com/package/nodemon)
-<!--
 - **dotenv** - [https://www.npmjs.com/package/dotenv/](https://www.npmjs.com/package/dotenv/)
 - **nodemon** - [https://www.npmjs.com/package/nodemon/](https://www.npmjs.com/package/nodemon/)
 - **bodyparser** - [https://www.npmjs.com/package/body-parser/](https://www.npmjs.com/package/body-parser/)
 - **mysql** - [https://www.npmjs.com/package/mysql/](https://www.npmjs.com/package/mysql/)
 - **jsonwebtoken** - [https://mongoosejs.com/](https://mongoosejs.com/)
 - **bcrypt** - [https://mongoosejs.com/](https://mongoosejs.com/)
--->
 
 ## feature
 
