@@ -11,7 +11,15 @@ const success = function(values, res, msg) {
   res.end();
 };
 
+const customResponse = (res, code, msg, data) => {
+  return res.status(code).json({
+    code: code,
+    message: msg,
+    data: data
+  })
+}
 
 module.exports = {
   success,
+  customResponse
 }
