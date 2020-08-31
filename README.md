@@ -11,7 +11,7 @@
 - **bodyparser** - [https://www.npmjs.com/package/body-parser/](https://www.npmjs.com/package/body-parser/)
 - **mysql** - [https://www.npmjs.com/package/mysql/](https://www.npmjs.com/package/mysql/)
 - **jsonwebtoken** - [https://mongoosejs.com/](https://mongoosejs.com/)
-- **bcrypt** - [https://mongoosejs.com/](https://mongoosejs.com/) -->
+- **bcrypt** - [https://mongoosejs.com/](https://mongoosejs.com/)
 -->
 
 ## feature
