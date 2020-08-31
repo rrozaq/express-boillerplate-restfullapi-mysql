@@ -12,7 +12,7 @@
 - **jsonwebtoken** - [https://mongoosejs.com/](https://mongoosejs.com/)
 - **bcrypt** - [https://mongoosejs.com/](https://mongoosejs.com/)
 
-## feature
+## Feature
 
 1. crud example
 1. authentication with jwt, login
@@ -28,7 +28,7 @@
 cp .env.sample .env
 ```
 
-#### run manualy
+#### Run manualy
 
 ```sh
 # install package
@@ -38,7 +38,7 @@ npm install
 npm run start
 ```
 
-#### fill in the copied environment earlier
+#### Fill in the copied environment earlier
 
 ```sh
 APP_PORT=3000
@@ -51,7 +51,7 @@ DB_DATABASE=database name #db name
 DB_USERNAME=database username #username
 DB_PASSWORD=database password #password
 ```
-### demo login
+## Demo login
 ```sh
 username: admin
 password: 123
